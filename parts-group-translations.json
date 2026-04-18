@@ -1,0 +1,179 @@
+[
+    {
+        "name": "WIRE HARNESS"
+    },
+    {
+        "name": "WINKER"
+    },
+    {
+        "name": "WATER PUMP"
+    },
+    {
+        "name": "TRANSMISSION"
+    },
+    {
+        "name": "THROTTLE BODY/FUEL INJECTOR"
+    },
+    {
+        "name": "TAILLIGHT/LICENSE LIGHT"
+    },
+    {
+        "name": "Spoke wheel"
+    },
+    {
+        "name": "STEERING STEM"
+    },
+    {
+        "name": "STARTING MOTOR"
+    },
+    {
+        "name": "STAND/KICK ARM"
+    },
+    {
+        "name": "SEAT/LUGGAGE BOX"
+    },
+    {
+        "name": "Rear brake panel"
+    },
+    {
+        "name": "Rear Section / Tail Assembly"
+    },
+    {
+        "name": "Rear End"
+    },
+    {
+        "name": "RIGHT CRANKCASE"
+    },
+    {
+        "name": "RESERVE TANK"
+    },
+    {
+        "name": "REAR WHEEL"
+    },
+    {
+        "name": "REAR FENDER"
+    },
+    {
+        "name": "REAR CUSHION"
+    },
+    {
+        "name": "RADIATOR"
+    },
+    {
+        "name": "PILLION STEP"
+    },
+    {
+        "name": "OIL PUMP"
+    },
+    {
+        "name": "Main Body / Body Panels"
+    },
+    {
+        "name": "METER"
+    },
+    {
+        "name": "MARK/STRIPE"
+    },
+    {
+        "name": "LEFT CRANKCASE COVER"
+    },
+    {
+        "name": "LEFT CRANKCASE"
+    },
+    {
+        "name": "HEADLIGHT"
+    },
+    {
+        "name": "HANDLE PIPE/HANDLE COVER"
+    },
+    {
+        "name": "HANDLE LEVER/SWITCH/CABLE"
+    },
+    {
+        "name": "GENERATOR"
+    },
+    {
+        "name": "Front End / Front Suspension"
+    },
+    {
+        "name": "Front Cowl / Headlight Assembly"
+    },
+    {
+        "name": "FUEL TANK/FUEL PUMP"
+    },
+    {
+        "name": "FRONT WHEEL"
+    },
+    {
+        "name": "FRONT FORK"
+    },
+    {
+        "name": "FRONT FENDER"
+    },
+    {
+        "name": "FRONT COVER"
+    },
+    {
+        "name": "FRONT BRAKE CALIPER"
+    },
+    {
+        "name": "FRAME BODY"
+    },
+    {
+        "name": "FR. BRAKE MASTER CYLINDER"
+    },
+    {
+        "name": "FLOOR PANEL"
+    },
+    {
+        "name": "EXHAUST MUFFLER"
+    },
+    {
+        "name": "ENGINE"
+    },
+    {
+        "name": "DRIVEN FACE"
+    },
+    {
+        "name": "DRIVE FACE"
+    },
+    {
+        "name": "CYLINDER HEAD COVER"
+    },
+    {
+        "name": "CYLINDER HEAD"
+    },
+    {
+        "name": "CYLINDER"
+    },
+    {
+        "name": "CRANKSHAFT/PISTON"
+    },
+    {
+        "name": "COOLING FAN/RADIATOR COVER"
+    },
+    {
+        "name": "COMBINATION LIGHT"
+    },
+    {
+        "name": "CARBURETOR"
+    },
+    {
+        "name": "CAMSHAFT/VALVE"
+    },
+    {
+        "name": "CAM CHAIN/TENSIONER"
+    },
+    {
+        "name": "BODY COVER"
+    },
+    {
+        "name": "BATTERY"
+    },
+    {
+        "name": "AIR SUCTION VALVE"
+    },
+    {
+        "name": "AIR CLEANER"
+    }
+]
